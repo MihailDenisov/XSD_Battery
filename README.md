@@ -7,6 +7,8 @@
 
 Проект платы (EasyEDA/OSHWLab): [project_svjrqlut](https://oshwlab.com/mihaildenisov/project_svjrqlut) *(ссылка станет доступна после прохождения модерации)*
 
+Gerber-файлы для заказа платы: [XDS_Batt_Controller.zip](XDS_Batt_Controller.zip)
+
 ## Совместимость
 
 Батарея и разъём повторяют оригинальную механику и распиновку, поэтому применимы (под одним и тем же OEM-корпусом/платформой) к следующим сериям осциллографов:
@@ -116,6 +118,7 @@
 /Casing/                      — 3D-модели корпуса (STEP)
   xdsbattcase.stp
   xdsbatttop.stp
+XDS_Batt_Controller.zip       — Gerber-файлы платы
 README.md
 ```
 
